@@ -57,7 +57,7 @@ Create menu driven program in which options are
 **[3] Implement stack as an abstract data type using singly linked list and use this ADT for conversion of
 infix expression to postfix, prefix and evaluation of postfix and prefix expression.**
 
-## [Assignment-4 : Circular queue Using array](https://github.com/shinchancode/Data-Structure-Algorithms/blob/main/4_Circular_queue.cpp)
+## [Assignment-4 : Circular queue Using array]()
 **[4] Implement Circular Queue using Array. Perform following operations on it.**
 
 **a) Insertion (Enqueue)**
