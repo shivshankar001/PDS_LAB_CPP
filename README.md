@@ -1,5 +1,5 @@
 <h1 align="middle"> :grey_exclamation: Data-Structure-Algorithms Lab :grey_exclamation: </h1>
-<p align ="middle"> This is a repository for Data-Structure-Algorithms Lab assignments in First year Information Technology of IIT KGP! <br>
+<p align ="middle"> This is a repository for Data-Structure-Algorithms Lab assignments in First year Computer Science students of IIT KGP! <br>
 <b><i>Do star ⭐ this Repository if you feel it helped & drop a follow!</b></i><br><br>
 :blue_heart: <b> Happy Learning </b> :blue_heart:
 <br></p>
